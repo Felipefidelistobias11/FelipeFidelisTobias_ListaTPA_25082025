@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace MyApp
 {
@@ -12,7 +12,7 @@ namespace MyApp
                 Console.WriteLine(i);
                 if (i % 10 == 0) 
                 {
-                    Console.WriteLine("Multiplo de 10");  
+                    Console.WriteLine("Mutiplo de 10");  
                 }
             }
         }
